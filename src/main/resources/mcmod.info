@@ -2,7 +2,7 @@
 {
   "modid": "hunter",
   "name": "Hunter",
-  "description": "Sharks pit items",
+  "description": "Assists in finding items to shark in the Hypixel Pit",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
