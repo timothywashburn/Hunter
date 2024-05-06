@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hunter",
+  "name": "Hunter",
+  "description": "Sharks pit items",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kyro"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
